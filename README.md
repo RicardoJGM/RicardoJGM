@@ -8,5 +8,5 @@ Algunos datos personales son:
 - 🌱 Estudio Ing. En Sistemas Computacionales
 - 👯 Me gusta la programación, más que nada dedicarme al backend
 - 🤔 Algunos de mis pasatiempos son jugar videojuegos y leer de vez en cuando
-- 💬 Me gusta el trabajo en equipo
+- 💬 Me gusta trabajar en equipo
 - 😄 Prefiero que me digan Ricardo
