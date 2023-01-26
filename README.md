@@ -9,4 +9,4 @@ Algunos datos personales son:
 - 👯 Me gusta la programación, más que nada dedicarme al backend
 - 🤔 Algunos de mis pasatiempos son jugar videojuegos y leer de vez en cuando
 - 💬 Me gusta trabajar en equipo
-- 😄 Prefiero que me digan Ricardo
+- 😄 Prefiero que me digan Ricardo o Richard
