@@ -1,6 +1,6 @@
 ### Hola y bienvenidos 👋
 
-Soy Egresado de la **Universidad Critóbal Colón** y mi nombre es: Ricardo de Jesús García Mejía 
+Soy Egresado de la **Universidad Critóbal Colón** y mi nombre es: **Ricardo de Jesús García Mejía** 
 
 Algunos datos personales son:
 
